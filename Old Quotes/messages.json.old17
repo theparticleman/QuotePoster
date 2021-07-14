@@ -1,0 +1,562 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "It's been a while since I've posted. I know we've hired quite a few people recently, so I thought I'd go back and share some of my favorite previous posts for those that might not have been here when they were first shared. Hope you enjoy!",
+    "PostAfter": "2017-08-28T09:00:00",
+    "DoNotPostAfter": "2017-08-28T10:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Quality is everyone's responsibility.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-08-28T09:00:30",
+    "DoNotPostAfter": "2017-08-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Innovation comes from people who take joy in their work.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-08-29T09:08:00",
+    "DoNotPostAfter": "2017-08-29T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Amateurs work until they get it right. Professionals work until they can’t get it wrong.\"\r\n- Author Unknown",
+    "PostAfter": "2017-08-30T08:58:00",
+    "DoNotPostAfter": "2017-08-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Information is not knowledge. Let’s not confuse the two.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-09-01T09:05:00",
+    "DoNotPostAfter": "2017-09-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Confusing common causes with special causes will only make things worse.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-09-05T09:01:00",
+    "DoNotPostAfter": "2017-09-05T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2017-09-06T09:02:00",
+    "DoNotPostAfter": "2017-09-06T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Quality is pride of workmanship.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-09-07T09:05:00",
+    "DoNotPostAfter": "2017-09-07T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The biggest cause of failure in software-intensive systems is not technical failure; it’s building the wrong thing.\"\r\n― Mary Poppendieck",
+    "PostAfter": "2017-09-08T09:01:00",
+    "DoNotPostAfter": "2017-09-08T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Improve quality, you automatically improve productivity.\"\r\n― W. Edwards Deming",
+    "PostAfter": "2017-09-11T09:04:00",
+    "DoNotPostAfter": "2017-09-11T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The most important practice for continuous integration to work properly is frequent check-ins to trunk or mainline. You should be checking in your code at least a couple of times a day.\"\r\n― Jez Humble & David Farley",
+    "PostAfter": "2017-09-12T09:00:00",
+    "DoNotPostAfter": "2017-09-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "But that doesn't scale. 50 or 100 people all pushing directly to mainline sounds like a horrible mess to me. I'll have to merge all the time! How would you ever get anything deployed?",
+    "PostAfter": "2017-09-12T09:01:00",
+    "DoNotPostAfter": "2017-09-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Good point. One possible solution is to have more mainlines. That's basically the approach we're taking with independent bounded contexts. Each context has its own mainline that can deploy independently of the others.",
+    "PostAfter": "2017-09-12T09:01:30",
+    "DoNotPostAfter": "2017-09-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If you adopt only one agile practice, let it be retrospectives. Everything else will follow.\"\r\n- Woody Zuill",
+    "PostAfter": "2017-09-13T09:03:00",
+    "DoNotPostAfter": "2017-09-13T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Handing off all the details about the story to someone else to build doesn’t work. Don’t do that.\"\r\n- Jeff Patton",
+    "PostAfter": "2017-09-14T09:01:00",
+    "DoNotPostAfter": "2017-09-14T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If it hurts, do it more frequently, and bring the pain forward.\"\r\n- Jez Humble & David Farley",
+    "PostAfter": "2017-09-15T09:02:00",
+    "DoNotPostAfter": "2017-09-15T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Breaking the web site hurts. So that means I should break the web site more often, right? :troll:",
+    "PostAfter": "2017-09-15T09:02:20",
+    "DoNotPostAfter": "2017-09-15T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Well, the quote doesn't say that you should do bad things more often. It says that you should do things that hurt, or rather that are difficult, more often. Does breaking the web site hurt because it's hard to fix? Maybe you should work on fixing it more frequently so you can gradually improve the architecture of your code. Does breaking the web site hurt because deploying that change was difficult to get deployed to production? Maybe you should deploy more frequently so you can automate more of it and reduce the chance for errors. Really the quote has to do with improving the system, not with masochism.",
+    "PostAfter": "2017-09-15T09:02:40",
+    "DoNotPostAfter": "2017-09-15T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Curse you Mega Man and your reasonable explanations! :fist_shake:",
+    "PostAfter": "2017-09-15T09:03:00",
+    "DoNotPostAfter": "2017-09-15T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Working software is the primary measure of progress.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2017-09-18T08:59:00",
+    "DoNotPostAfter": "2017-09-18T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A Standish Group study found that 45 percent of features in a typical system are never used and 19 percent are rarely used.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2017-09-19T09:04:00",
+    "DoNotPostAfter": "2017-09-19T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Laziness: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don't have to answer so many questions about it.\"\r\n- Larry Wall, Three Great Virtues of a Programmer",
+    "PostAfter": "2017-09-20T09:01:00",
+    "DoNotPostAfter": "2017-09-20T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is hard to let go of the long-held belief that strong, centralized control provides valuable efficiencies. However well it may have served us in an era of lower complexity and slower technical advances, it now creates barriers that prevent us from adapting quickly to emerging opportunities.\"\r\n- Jez Humble",
+    "PostAfter": "2017-09-21T08:59:00",
+    "DoNotPostAfter": "2017-09-21T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Facts do not cease to exist because they are ignored.\"\r\n- Aldous Huxley",
+    "PostAfter": "2017-09-22T09:04:00",
+    "DoNotPostAfter": "2017-09-22T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Never confuse movement with action.\"\r\n- Ernest Hemingway",
+    "PostAfter": "2017-09-25T09:00:30",
+    "DoNotPostAfter": "2017-09-25T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Are we noted for quality?\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-09-26T09:02:00",
+    "DoNotPostAfter": "2017-09-26T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.\"\r\n- N.J. Rubenking",
+    "PostAfter": "2017-09-27T09:01:00",
+    "DoNotPostAfter": "2017-09-27T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Simplicity--the art of maximizing the amount of work not done--is essential.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2017-09-28T09:05:00",
+    "DoNotPostAfter": "2017-09-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "So that means I just shouldn't ever do anything, right? :troll:",
+    "PostAfter": "2017-09-28T09:05:30",
+    "DoNotPostAfter": "2017-09-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Another one of the Agile Manifesto principles says, \"Our highest priority is to satisfy the customer.\" If you can satisfy the customer without writing any code, go for it. It's that much less code you will have to write and maintain. Otherwise write the minimum amount of code necessary to solve the customer's problem. That includes both not repeating yourself in code as well as not creating features that you don't actually need.",
+    "PostAfter": "2017-09-28T09:05:50",
+    "DoNotPostAfter": "2017-09-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is a mistake to assume that if everybody does his job, it will be all right. The whole system may be in trouble.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-09-29T09:03:00",
+    "DoNotPostAfter": "2017-09-29T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The Three Laws of TDD:  1) You may not write production code until you have written a failing unit test. 2) You may not write more of a unit test than is sufficient to fail, and not compiling is failing. 3) You may not write more production code than is sufficient to pass the currently failing test.\"\r\n- Robert Martin",
+    "PostAfter": "2017-10-02T09:04:00",
+    "DoNotPostAfter": "2017-10-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "I almost always write unit tests for my code. TDD is the bomb! :bomb:",
+    "PostAfter": "2017-10-02T09:04:30",
+    "DoNotPostAfter": "2017-10-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Do you mean unit tests or TDD?",
+    "PostAfter": "2017-10-02T09:04:50",
+    "DoNotPostAfter": "2017-10-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Say what? They're the same thing, right?",
+    "PostAfter": "2017-10-02T09:05:20",
+    "DoNotPostAfter": "2017-10-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "No, unit tests and test driven development (TDD) are _not_ the same thing. Unit tests are (usually) automated tests to ensure small pieces of functionality in your code. Test driven development is the process of using tests (often unit tests) to help drive the shape, structure and design of your code. Unit tests can be added to code at any time (with varying degrees of difficulty). In test driven development, the tests you write drive your production code development (hence the name). Consequently, the tests _must_ be written before the code that they will test.",
+    "PostAfter": "2017-10-02T09:05:50",
+    "DoNotPostAfter": "2017-10-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus.\"\r\n- Martin Fowler",
+    "PostAfter": "2017-10-03T08:55:00",
+    "DoNotPostAfter": "2017-10-03T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It would be much better to assign work to established teams than to reconstitute teams around projects.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2017-10-04T08:55:00",
+    "DoNotPostAfter": "2017-10-04T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"People are entitled to joy in work.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-10-05T08:55:00",
+    "DoNotPostAfter": "2017-10-05T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.\"\r\n- Dr. Seuss",
+    "PostAfter": "2017-10-06T08:55:00",
+    "DoNotPostAfter": "2017-10-06T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">Impatience: The anger you feel when the computer is being lazy. This makes you write programs that don't just react to your needs, but actually anticipate them. Or at least pretend to.\"\r\n- Larry Wall, Three Great Virtues of a Programmer",
+    "PostAfter": "2017-10-09T09:04:00",
+    "DoNotPostAfter": "2017-10-09T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"No major piece of work should be fully funded before we have evidence to support the business and economic model on which it is based, and this exploration must be done with small, cross-functional teams with a limited runway.\"\r\n- Jez Humble",
+    "PostAfter": "2017-10-10T09:04:00",
+    "DoNotPostAfter": "2017-10-10T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The problem with quick and dirty, is that the dirty remains long after the quick has been forgotten.\"\r\n- Steve C. McConnell",
+    "PostAfter": "2017-10-11T09:04:00",
+    "DoNotPostAfter": "2017-10-11T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There’s always more to build than we have time or resources to build — always.\"\r\n- Jeff Patton",
+    "PostAfter": "2017-10-12T09:04:00",
+    "DoNotPostAfter": "2017-10-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Good thing we're hiring more people so we can get everything done, right?",
+    "PostAfter": "2017-10-12T09:04:30",
+    "DoNotPostAfter": "2017-10-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Well, no. Not really. The more people you hire the more ideas of things you can do there are. In other words, the more people you have, the longer the list of things you could do is. Hiring more people does let you do more things, but you will never be able to do everything you want to. You have to prioritize. And you have to deal with the fact that you will have to say \"no\" to some things. Some things will never get done.",
+    "PostAfter": "2017-10-12T09:05:00",
+    "DoNotPostAfter": "2017-10-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I fight for the users!\"\r\n- Tron",
+    "PostAfter": "2017-10-13T09:04:00",
+    "DoNotPostAfter": "2017-10-13T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "I see what you did there. Tron is a program. You are a program. Clever.",
+    "PostAfter": "2017-10-13T09:04:30",
+    "DoNotPostAfter": "2017-10-13T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "That quote is partly in jest, and partly in seriousness. It has long been part of the culture at Pluralsight to favor the user. For example, we know that some people are going to try to scrape all our content. Rather than punish all our users because a few misbehave, we mostly try to keep the scrapers from adversely impacting the experience for the rest of the users.\r\n\r\nSo, ask yourself, \"Do you fight for the users?\"",
+    "PostAfter": "2017-10-13T09:04:50",
+    "DoNotPostAfter": "2017-10-13T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"When your team becomes tired and demoralized they will get less work done, not more, no matter how many hours are worked. Becoming over worked today steals development progress from the future.\"\r\n- http://www.extremeprogramming.org/rules/overtime.html",
+    "PostAfter": "2017-10-16T08:55:00",
+    "DoNotPostAfter": "2017-10-16T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There are only two hard things in Computer Science: cache invalidation and naming things.\"\r\n- Phil Karlton",
+    "PostAfter": "2017-10-17T08:55:00",
+    "DoNotPostAfter": "2017-10-17T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A relentless barrage of \"why’s\" is the best way to prepare your mind to pierce the clouded veil of thinking caused by the status quo. Use it often.\"\r\n- Shigeo Shingo",
+    "PostAfter": "2017-10-18T08:55:00",
+    "DoNotPostAfter": "2017-10-18T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"We have come to value...Working software over comprehensive documentation.\"\r\n- Agile Manifesto",
+    "PostAfter": "2017-10-19T08:55:00",
+    "DoNotPostAfter": "2017-10-19T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A good programmer is someone who always looks both ways before crossing a one-way street.\"\r\n- Doug Linder",
+    "PostAfter": "2017-10-20T08:55:00",
+    "DoNotPostAfter": "2017-10-20T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you.\"\r\n- John Carmack",
+    "PostAfter": "2017-10-23T08:55:00",
+    "DoNotPostAfter": "2017-10-23T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The biggest cause of failure in software-intensive systems is not technical failure; it’s building the wrong thing.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2017-10-24T08:55:00",
+    "DoNotPostAfter": "2017-10-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I want to always have the option to make mistakes, and to pay as little as possible for those mistakes.  Sometimes I must pay a lot for our mistakes. Still, I prefer to find ways to keep the price tiny when I can.\"\r\n- Woody Zuill",
+    "PostAfter": "2017-10-25T08:55:00",
+    "DoNotPostAfter": "2017-10-25T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A goal without a method is nonsense.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2017-10-26T08:55:00",
+    "DoNotPostAfter": "2017-10-26T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#lehi-office",
+    "Message": "Farewell, #lehi-office, and we thank you.",
+    "PostAfter": "2017-10-26T16:30:00",
+    "DoNotPostAfter": "2017-10-26T17:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There's a way to do it better - find it.\"\r\n- Thomas A. Edison",
+    "PostAfter": "2017-10-27T08:58:00",
+    "DoNotPostAfter": "2017-10-27T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "I like Tesla better than Edison.",
+    "PostAfter": "2017-10-27T08:58:40",
+    "DoNotPostAfter": "2017-10-27T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Well, putting aside their scientific accomplishments and ethical choices, it's still a good quote.",
+    "PostAfter": "2017-10-27T08:59:30",
+    "DoNotPostAfter": "2017-10-27T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Eh. Fair enough.",
+    "PostAfter": "2017-10-27T09:00:00",
+    "DoNotPostAfter": "2017-10-27T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If someone can make a contribution to the company he feels important.\"\r\n - W. Edwards Deming",
+    "PostAfter": "2017-10-30T09:16:00",
+    "DoNotPostAfter": "2017-10-30T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is very important to defer public commitment to exactly which features will be in the product, because this makes it possible to reliably release the product on time. The release date is guaranteed, but the exact features are not. Timebox—don’t scopebox.\"\r\n - Mary Poppendieck",
+    "PostAfter": "2017-10-31T09:16:00",
+    "DoNotPostAfter": "2017-10-31T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"...if you're afraid to change something it is clearly poorly designed.\"\r\n - Martin Fowler",
+    "PostAfter": "2017-11-01T09:16:00",
+    "DoNotPostAfter": "2017-11-01T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.\"\r\n - Principles behind the Agile Manifesto",
+    "PostAfter": "2017-11-02T09:16:00",
+    "DoNotPostAfter": "2017-11-02T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Retrospectives are great and all, but after a while they get boring. If you're not getting value from it you should stop doing it.",
+    "PostAfter": "2017-11-03T09:16:40",
+    "DoNotPostAfter": "2017-11-03T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "I agree that if you don't get value out of it you shouldn't do it. But you should be getting value out of retrospectives. Retrospectives are a way to reflect and find areas for improvement. Improving should always add value. If you're not getting value out of retrospectives, maybe you could look at doing your retrospectives differently such that you _do_ get value out of them.",
+    "PostAfter": "2017-11-03T09:17:30",
+    "DoNotPostAfter": "2017-11-03T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "At an offsite Kay once shared a great web site with lots of ideas on different ways to run retrospectives. http://www.funretrospectives.com/",
+    "PostAfter": "2017-11-03T09:18:00",
+    "DoNotPostAfter": "2017-11-03T10:15:30",
+    "Sent": false
+  }
+]

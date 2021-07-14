@@ -1,0 +1,106 @@
+[
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "The leadership team has set new priorities for the company at their most recent off-site meeting.\r\nOur Q4 Engineering Rocks are:\r\n - Define and architect first set of curated and branded learning paths\r\n - Drive SSO implementation for Code School bundled teams\r\n - Technical debt; strategy, communication, and delivery\r\n - Complete profile and transcript skateboard\r\n - Release skill assessment on app.ps.com\r\n - Effectively launch AEM, salesforce.com, and Zuora\r\n - Establish certified data set in support of predictive financial model (“Big Kahuna”)",
+    "PostAfter": "2015-10-07T10:30:00",
+    "DoNotPostAfter": "2015-10-07T10:45:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "When we talk about our Rocks as top priorities for the quarter, we need to remember that keeping our product online, available, and responsive for our users is always the engineering team’s top priority.",
+    "PostAfter": "2015-10-08T10:30:00",
+    "DoNotPostAfter": "2015-10-08T10:45:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "Not everyone takes the kind of meticulous notes that we robots do, so allow me to remind you of the Q4 Engineering Rocks:\r\n - Define and architect first set of curated and branded learning paths\r\n - Drive SSO implementation for Code School bundled teams\r\n - Technical debt; strategy, communication, and delivery\r\n - Complete profile and transcript skateboard\r\n - Release skill assessment on app.ps.com\r\n - Effectively launch AEM, salesforce.com, and Zuora\r\n - Establish certified data set in support of predictive financial model (“Big Kahuna”)",
+    "PostAfter": "2015-10-09T10:30:00",
+    "DoNotPostAfter": "2015-10-09T10:45:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"1. Be respectful, considerate, and kind, even when you disagree.\r\n2. Always act in Pluralsight’s best interest.\"\r\n- Pluralsight's Two Rules",
+    "PostAfter": "2015-10-05T09:04:00",
+    "DoNotPostAfter": "2015-10-05T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">Impatience: The anger you feel when the computer is being lazy. This makes you write programs that don't just react to your needs, but actually anticipate them. Or at least pretend to.\"\r\n- Larry Wall, Three Great Virtues of a Programmer",
+    "PostAfter": "2015-10-06T09:04:00",
+    "DoNotPostAfter": "2015-10-06T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"No major piece of work should be fully funded before we have evidence to support the business and economic model on which it is based, and this exploration must be done with small, cross-functional teams with a limited runway.\"\r\n- Jez Humble",
+    "PostAfter": "2015-10-07T09:04:00",
+    "DoNotPostAfter": "2015-10-07T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The problem with quick and dirty, is that the dirty remains long after the quick has been forgotten.\"\r\n- Steve C. McConnell",
+    "PostAfter": "2015-10-08T09:04:00",
+    "DoNotPostAfter": "2015-10-08T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There’s always more to build than we have time or resources to build — always.\"\r\n- Jeff Patton",
+    "PostAfter": "2015-10-09T09:04:00",
+    "DoNotPostAfter": "2015-10-09T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Good thing we're hiring more people so we can get everything done, right?",
+    "PostAfter": "2015-10-09T09:04:30",
+    "DoNotPostAfter": "2015-10-09T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Well, no. Not really. The more people you hire the more ideas of things you can do there are. In other words, the more people you have, the longer the list of things you could do is. Hiring more people does let you do more things, but you will never be able to do everything you want to. You have to prioritize. And you have to deal with the fact that you will have to say \"no\" to some things. Some things will never get done.",
+    "PostAfter": "2015-10-09T09:05:00",
+    "DoNotPostAfter": "2015-10-09T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I fight for the users!\"\r\n- Tron",
+    "PostAfter": "2015-10-12T09:04:00",
+    "DoNotPostAfter": "2015-10-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "I see what you did there. Tron is a program. You are a program. Clever.",
+    "PostAfter": "2015-10-12T09:05:10",
+    "DoNotPostAfter": "2015-10-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "That quote is partly in jest, and partly in seriousness. It has long been part of the culture at Pluralsight to favor the user. For example, we know that some people are going to try to scrape all our content. Rather than punish all our users because a few misbehave, we mostly try to keep the scrapers from adversely impacting the experience for the rest of the users.\r\n\r\nSo, ask yourself, \"Do you fight for the users?\"",
+    "PostAfter": "2015-10-12T09:05:50",
+    "DoNotPostAfter": "2015-10-12T10:15:30",
+    "Sent": true
+  }
+]

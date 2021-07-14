@@ -1,0 +1,106 @@
+[
+  {
+    "PostAs": "Duo",
+    "Channel": "@jon",
+    "Message": "In order to support Pluralsight’s Aim of *Democratizing Professional Technology Learning*, the Q4 Engineering Rocks include:\r\n - Effectively launch AEM, salesforce.com, and Zuora\r\n - Establish certified data set in support of predictive financial model (\"Big Kahuna\")\r\n\r\n@jodyb can provide clarity on what these Rocks mean, why they were chosen, and how they support the Aim of the business and leadership team.",
+    "PostAfter": "2015-10-15T16:43:00",
+    "DoNotPostAfter": "2015-10-19T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "In order to support Pluralsight’s Aim of *Democratizing Professional Technology Learning*, the Q4 Engineering Rocks include:\r\n - Effectively launch AEM, salesforce.com, and Zuora\r\n - Establish certified data set in support of predictive financial model (\"Big Kahuna\")\r\n\r\n@jodyb can provide clarity on what these Rocks mean, why they were chosen, and how they support the Aim of the business and leadership team.",
+    "PostAfter": "2015-10-19T10:30:00",
+    "DoNotPostAfter": "2015-10-19T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "In order to support Pluralsight’s Aim of *Democratizing Professional Technology Learning*, the Q4 Engineering Rocks include:\r\n - Technical debt; strategy, communication, and delivery\r\n - Complete profile and transcript skateboard\r\n - Release skill assessment on app.ps.com\r\n\r\n@jodyb can provide clarity on what these Rocks mean, why they were chosen, and how they support the Aim of the business and leadership team.",
+    "PostAfter": "2015-10-20T10:30:00",
+    "DoNotPostAfter": "2015-10-20T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "In order to support Pluralsight’s Aim of *Democratizing Professional Technology Learning*, the Q4 Engineering Rocks include:\r\n - Define and architect first set of curated and branded learning paths\r\n - Drive SSO implementation for Code School bundled teams\r\n\r\n@jodyb can provide clarity on what these Rocks mean, why they were chosen, and how they support the Aim of the business and leadership team.",
+    "PostAfter": "2015-10-21T10:30:00",
+    "DoNotPostAfter": "2015-10-21T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"When your team becomes tired and demoralized they will get less work done, not more, no matter how many hours are worked. Becoming over worked today steals development progress from the future.\"\r\n- http://www.extremeprogramming.org/rules/overtime.html",
+    "PostAfter": "2015-10-13T08:55:00",
+    "DoNotPostAfter": "2015-10-13T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There are only two hard things in Computer Science: cache invalidation and naming things.\"\r\n- Phil Karlton",
+    "PostAfter": "2015-10-14T08:55:00",
+    "DoNotPostAfter": "2015-10-14T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A relentless barrage of \"why’s\" is the best way to prepare your mind to pierce the clouded veil of thinking caused by the status quo. Use it often.\"\r\n- Shigeo Shingo",
+    "PostAfter": "2015-10-15T08:55:00",
+    "DoNotPostAfter": "2015-10-15T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"We have come to value...Working software over comprehensive documentation.\"\r\n- Agile Manifesto",
+    "PostAfter": "2015-10-16T08:55:00",
+    "DoNotPostAfter": "2015-10-16T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A good programmer is someone who always looks both ways before crossing a one-way street.\"\r\n- Doug Linder",
+    "PostAfter": "2015-10-19T08:55:00",
+    "DoNotPostAfter": "2015-10-19T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you.\"\r\n- John Carmack",
+    "PostAfter": "2015-10-20T08:55:00",
+    "DoNotPostAfter": "2015-10-20T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The biggest cause of failure in software-intensive systems is not technical failure; it’s building the wrong thing.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2015-10-21T08:55:00",
+    "DoNotPostAfter": "2015-10-21T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I want to always have the option to make mistakes, and to pay as little as possible for those mistakes.  Sometimes I must pay a lot for our mistakes. Still, I prefer to find ways to keep the price tiny when I can.\"\r\n- Woody Zuill",
+    "PostAfter": "2015-10-22T08:55:00",
+    "DoNotPostAfter": "2015-10-22T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A goal without a method is nonsense.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2015-10-23T08:55:00",
+    "DoNotPostAfter": "2015-10-23T10:15:30",
+    "Sent": true
+  }
+]

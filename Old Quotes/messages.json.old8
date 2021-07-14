@@ -1,0 +1,74 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2015-11-23T08:58:00",
+    "DoNotPostAfter": "2015-11-23T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There should be two tasks for a human being to perform to deploy software into a development, test, or production environment: to pick the version and environment and to press the 'deploy' button.\"\r\n- Jez Humble & David Farley",
+    "PostAfter": "2015-11-24T08:58:00",
+    "DoNotPostAfter": "2015-11-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"This was a triumph. I'm making a note here: HUGE SUCCESS.\"\r\n- GLaDOS",
+    "PostAfter": "2015-11-25T11:50:00",
+    "DoNotPostAfter": "2015-11-25T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Huge success? That sounds great!",
+    "PostAfter": "2015-11-25T11:23:10",
+    "DoNotPostAfter": "2015-11-25T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "You know she was homicidal, right?",
+    "PostAfter": "2015-11-25T11:23:20",
+    "DoNotPostAfter": "2015-11-25T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Oh...",
+    "PostAfter": "2015-11-25T11:23:30",
+    "DoNotPostAfter": "2015-11-25T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "And the cake is a lie. :cake:",
+    "PostAfter": "2015-11-25T11:23:40",
+    "DoNotPostAfter": "2015-11-25T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "What!?",
+    "PostAfter": "2015-11-25T11:23:50",
+    "DoNotPostAfter": "2015-11-25T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Happy Thanksgiving! :turkey:",
+    "PostAfter": "2015-11-26T08:58:00",
+    "DoNotPostAfter": "2015-11-26T10:15:30",
+    "Sent": true
+  }
+]

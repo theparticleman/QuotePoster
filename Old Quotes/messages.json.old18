@@ -1,0 +1,650 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The days when software developers are specialized in only one thing are numbered. The old attitude we had - if it is not coding, it's not my problem - is now unacceptable. Companies started to get leaner, flattening their hierarchies and replacing many one-trick-pony professionals with generalizing specialists. Companies are looking for developers who, besides being great at writing code, can also help in many other areas of the business.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-01-22T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\" The much talked about software backlog is a myth. We all know that projects cost a lot more at the end than what we expected them to cost at the beginning.  So the cost of a system that didn't get built this year (because we didn't have the capacity for it) is optimistically assumed to be half of what it would actually cost to build, or even less.  The typical project that's stuck in the mythical backlog is there because it has barely enough benefit to justify building it, even with the most optimistic cost assumptions.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-01-23T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"This new reality in the software industry forced an evolution of the software development profession. Companies are demanding professional software developers and not just cheap coders who do whatever they are told to do.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-01-24T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Agile does not solve any problems; it exposes them.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-01-25T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There are a million ways to lose a work day, but not even a single way to get one back.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-01-26T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Being good at writing code is the minimum skill expected from software professionals.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-01-29T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The principles behind Agile [can be] forgotten. Process [can become] more important than technical excellence. Technical excellence, which is assumed to be in place by every process-related Agile methodology, is normally ignored by managers and ill-prepared Agile coaches.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-01-30T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Work-conducive office space is not a status symbol, it's a necessity.  Either you pay for it by shelling out what it costs, or you pay for it in lost productivity.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-01-31T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Effective processes work from the premise that, in order to achieve quality, we need to provide a great feedback system, at all levels. For a feedback system to work, we need talented and passionate professionals who care enough about what they do, raising their voices when they feel something is wrong or could be done better. Focusing purely on the process and treating software development like a production line leads to average 9-to-5 developers doing what they are told - they become factory workers. This approach makes the feedback system inefficient, compromising the entire project.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-01T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Since creativity is a sometime thing anyway, we often don't notice when there is less of it.  People don't have a quota for creative thoughts.  The effect of reduced creativity is cumulative over a long period. The organization is less effective, people grind out the work without a spark of excitement, and the best people leave.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-02-02T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"We really did the company and ourselves a disservice. We made loads of mistakes during those long hours, including wiping out the entire production database at 3 A.M. We created things that were totally unnecessary. We had a very poor understanding of the real issues and did not create situations where we could provide better solutions. We allowed ourselves to be deprived of a personal life and even ended up discriminating against those who decided not to sleep in the car park or just work 12 hours a day. We were not acting professionally because we never said NO.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-05T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "So that means we should just say no all the time, right? :troll:",
+    "PostAfter": "2018-02-05T09:01:00",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "No",
+    "PostAfter": "2018-02-05T09:01:10",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Ha ha. Very funny.",
+    "PostAfter": "2018-02-05T09:01:20",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Seriously though, _never_ saying no isn't professional. But so is always saying no. We'll have a few more quotes about that this week.",
+    "PostAfter": "2018-02-05T09:01:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Always saying no is...not a professional attitude. Every no, ideally, should be followed by a list of alternatives.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-06T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Managers should appreciate when we say we cannot deliver some features. Although that may be bad news, that information will help to avoid a much bigger problem. Transparency helps managers and the team to prepare for tough situations. Raising the red flag as early as possible, indicating that something is wrong, allows the team and all people involved to be pragmatic and come up with alternative solutions. It frees people to be creative in order to solve the problem. If we manage to deliver what we promised when we said yes, managers will be far more inclined to trust us when we say no.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-07T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"In the Agile Manifesto we have working software over comprehensive documentation...This is absolutely great and we all agree with these principles. The problem here is that over the years, the idea of working software moved away from high-quality working software, and many Agile projects are producing code that is way below the standards expected from a real Agile project.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-08T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The biggest problem [with code] is that bad code is invisible to everyone besides the developers. Other members of the team only realize that something is wrong when it is too late. That means it is the developers’ responsibility to look after the quality of the code.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-09T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Under the meta-plan, facilities evolve through a series of small steps into campuses and communities of related buildings.  By respecting the same principles, they retain a harmony of vision, but not a sameness.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-02-12T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Hire craftsmen, not average developers.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-13T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Having an empowered team of craftsmen can be the difference between success and failure of any software project.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-14T09:00:30",
+    "DoNotPostAfter": "2018-02-14T09:10:00",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"We always feel we need to rush. Sometimes the pressure is put on us by the business, but more often than not, the pressure is self-imposed.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-15T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Dedicated QA teams are an anti-pattern. Testers should find nothing. Zero. Nada. Every time a tester finds a bug, developers should feel bad about it. Every bug found is an indication of something that we haven’t done properly.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-16T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Whew! That's good to hear! I'm a coder, not a tester. Now I have a good reason not to waste my time testing!",
+    "PostAfter": "2018-02-16T09:00:45",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Hang on there a sec! The quote doesn't say _anything_ about not testing. It says you shouldn't have a part of the process specifically for testing that is unrelated to developing the code. If anything the quote is advocating that those writing code should test their code _more_, not less.",
+    "PostAfter": "2018-02-16T09:00:50",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"People cannot work effectively if their workspace is too enclosed or too exposed.  A good workspace strikes the balance...You feel more comfortable in a workspace if there is a wall behind you...There should be no blank wall closer than 8 feet in front of you.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-02-20T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"When breaking user stories into development tasks, I have seen many developers creating a “unit test” task card. The reason was that they wanted to assign formal time to it. No, we should never do that. Ever.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-21T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Wait. So that means we don't have to write unit tests anymore?",
+    "PostAfter": "2018-02-21T09:00:40",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "No, the quote means that writing unit tests shouldn't be a separate thing from developing a feature. It should be an integral part of the process.",
+    "PostAfter": "2018-02-21T09:00:50",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Practices are what we consistently do on a daily basis; we either do TDD or we don’t do TDD; we either have continuous integration or we don’t have continuous integration. Some people say, “We do TDD...sometimes.” That doesn’t help. In order to measure their benefits, practices must be adopted wholeheartedly.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-22T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Practices must be backed by values, which are shared by all members of the team, to be efficient. For example, all team members must want to be better, to improve communication, to have quicker feedback, to achieve results fast, to reduce the number of mistakes, to do their best to provide a good service to their client, to feel bad when they can’t do their best or are not learning. These are values.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-23T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The main mistake many interviewers make is to say that they are too busy to interview: “We can’t spend too much time interviewing people. We have work to do.”\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-26T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"People were charmed by differentness, they like the attention, they were intrigued by novelty.  This has come to be called the Hawthorne Effect.  Loosely stated, it says that people perform better when they're trying something new.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-02-27T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"We spend far more time with our colleagues than we spend with our loved ones – which makes it even more important that we trust and have great relationships with them. The truth is that if you cannot allocate enough time to interview, you can’t really be serious about building a great team.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-02-28T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Job descriptions are anti-patterns...Job descriptions are designed to weed out the worst, not attract the best. Top developers do not apply for experience-based job descriptions. They are usually more selective when choosing where they want to work.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-01T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Job descriptions are totally discouraged, but if one is needed, the focus should be on detailing the expected attitude and responsibilities, types of projects, technologies used (not required), and values and culture of the company.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-02T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"For great developers, their job is not just a job; it’s also their hobby and their passion.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-05T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The jelled work group may be cocky and self-sufficient, irritating and exclusive, but it does more to serve the manager's real goals than any assemblage of interchangeable parts could ever do.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-03-06T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "So that means I can be a jerk, as long as I'm getting my stuff done, right?",
+    "PostAfter": "2018-03-06T09:00:40",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "I guess you _could_ interpret the quote that way. But that's not the way I interpret it at all. I interpret it as a statement about how important a well jelled team is. That even _if_ a team has other dysfunctions, if they are well jelled they will still be providing a lot of value. But what's even better is a well jelled team that _isn't_ dysfunctional.",
+    "PostAfter": "2018-03-06T09:00:50",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Software craftsmen understand that, by recommending another developer, they put their reputation on the line. When a software craftsman makes a recommendation, it is implied that the recommended developer is also a software craftsman, and that he or she shares the same passion, values, principles, and dedication.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-07T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The best way for companies to hire talented developers is to be in contact with the wider community. Supporting user groups and technical communities is a great way to attract and approach great developers.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-08T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If you think your developers are not good, don’t blame them. First, ask yourself why and how they were hired. Maybe your recruitment process is not working as well as you thought it was. As a company, don’t think you are the only one applying filters and looking for the best people. Good developers are also filtering bad companies out and looking for the best ones.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-09T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Interviews are a two-way street. Companies try to find developers who can help them achieve their goals, and developers try to find out if the hiring company is a good fit for their career aspirations.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-12T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There are certainly cases where a tight but not impossible deadline can constitute an enjoyable challenge to the team.  What's never going to help, however, is a _phony_ deadline.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-03-13T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If a developer doesn’t ask questions about how we work, what we do, what we want to achieve, and what our main problems are, how can we be sure she will be asking questions when she joins the team?\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-14T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Always favor candidates who ask questions. It doesn’t mean they are better than the ones who don’t ask questions but, at least, it shows they care enough about being in a place they will enjoy.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-15T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Ideally, there should also be a space for members to prepare simple meals and eat together.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-03-16T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Our first hint that the management team does not trust developers, and that formal hierarchies govern the company, is when interviewers are managers, architects, and team leaders, instead of developers we would work with. That should be enough for us to question whether developers are empowered to make decisions or if a few people at higher positions make all the decisions.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-19T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Single interview processes always make me a bit worried. It seems that the company is in a hurry and cannot take the time to hire the right people. A multi-phase interview process usually means that the company is interested in analyzing different aspects of the candidate’s profile and are more serious about finding a more well-rounded professional.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-20T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If you've got decent people under you, there is probably nothing you can do to improve their chances of success more dramatically than to get yourself out of their hair occasionally.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-03-21T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A good interview is like a good and informal chat between passionate developers. It’s an exchange of information: a good debate about techniques, tools, challenges, and approaches to software development.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-22T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If we are scared that people will know what we are going to talk about during the interview, probably it is because we are doing it wrong. If the interview is composed of questions that any person could answer correctly after a quick search on Google, or after reading the APIs of a language or the documentation of a tool, the questions have absolutely no value in identifying good or bad developers.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-23T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If we value Test-Driven Development (TDD), clean code, refactoring, pair programming, and Agile methodologies, they all should be part of our interview process.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-26T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Don’t waste precious interview time talking about things that are not relevant. Focus on what is important and more valuable to the company.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-27T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"A real working meeting is called when there is a real reason for _all_ the people invited to think through some matter together.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-03-28T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is a huge mistake to hire a developer without seeing her coding. No technical interview is a replacement for a good pair-programming session.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-29T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Interview techniques are a skill we should master, both as interviewers and as candidates. However, this is a skill that is very rarely taught. Usually companies have a few senior developers who conduct all the technical interviews. Although that seems to make sense, and may work for a period of time, it is not sustainable. A strong team is a team where each developer can conduct interviews, making sure he or she will find the talent the team expects.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-03-30T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Parkinson's Law almost certainly doesn't apply to your people. Their lives are just too short to allow too much loafing on the job. Since they enjoy their work, they are disinclined to let it drag on forever - that would just delay the satisfaction they all hanker for. They are as eager as you are to get the job done, provided only that they don't have to compromise their standard of quality.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-04-02T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "What's Parkinson's Law?",
+    "PostAfter": "2018-04-02T09:00:40",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "To answer with another quote from Peopleware, \"Writing in 1954, the British author C. Northcote Parkinson introduced the notion that work expands to fill the time allocated for it, now known as Parkinson's Law.\" Parkinson's Law is sometimes used by managers as a justification for imposing artificial deadlines. The thinking is that if there are no deadlines then workers will procrastinate infinitely, never getting any work done. The first quote is refuting that claim.",
+    "PostAfter": "2018-04-02T09:00:50",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"As a company, it is essential that you have the developers conducting the interviews. As a candidate, if developers do not interview you, consider finding a job somewhere else.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-03T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Avoid stupid questions that are totally unrelated to the job. How many golf balls can you fit into an airplane? A clerk at a butcher shop stands 5 feet 10 inches tall and wears size 13 sneakers. What does he weigh? The ability to answer these stupid brainteasers has nothing to do with writing well-crafted code, being a good team player, or having a professional attitude. Brainteasers are a total waste of time, as Google interviewers finally realized after using them for a long time. At least for them, better later than never.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-04T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The ultimate management sin is wasting people's time.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-04-05T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The vast majority of the problems I’ve seen in different systems over the years were not related to how algorithms were written. The most common problems were lack of tests or, at least, good tests; bad design; low cohesion and tight coupling; lack of refactoring as new features are introduced; a constant change of requirements; anemic and deficient domain models, and so on. Those were the real problems I’ve seen the most. By nature, algorithms are procedural and better implemented in a functional style. We don’t create classes or model the business domain when implementing an algorithm.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-06T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There is a huge demand for good developers and if we want them to join our company, we must learn how to interview them properly. We also need to remember that developers are not the only ones being interviewed. Good developers are also interviewing companies and they will exercise their option to reject the bad ones.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-09T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"When things are not going well, the best developers are always the first ones to go.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-10T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Low morale can destroy a company. Unmotivated people have no energy to create and bring innovation. They have no motivation to do a good job and take responsibility. But people are not normally like that; they become like that.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-16T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If your company employs a few thousand knowledge-workers, it could easily have enough invested in them to be the equivalent of a modern wide-body aircraft.  Wasting the time of that huge investment is money poured down the drain.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-04-17T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The best person to motivate a developer is another developer. A good developer. A software craftsman. A developer whom other developers can look up to, who can inspire them.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-18T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Creating a culture of learning is one of the most efficient ways of injecting passion into a company.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-19T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"You don’t need authorization from your boss to learn and practice on your own time. This is true in many companies, even during working hours if you don’t ask. You just need to be responsible. No sensible manager will complain when she realizes that the team is practicing and trying to get better.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-20T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Creating a culture of learning is not only a manager’s or Agile coach’s job. It’s everyone’s job, including developers. Lack of time or an appropriate place for learning is not an excuse. Even with no support from management, developers can easily create a culture of learning, an environment where they can learn and share with each other.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-23T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Even on the rare occasion when leaning on someone is the only option, the manager is the last person to do the leaning. It works far better when the message comes from the team.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-04-24T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"No manager or client expects bad-quality software. Regardless of what they say, they will always expect high quality. Even when developers tell them many times that quality will suffer if they want to keep the costs down and deliver things faster, they will nod in agreement but they will still expect quality.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-25T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The main problem is this big and wrong assumption that cheap and average code is good enough – maybe in the short term, but never in the medium and long term.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-26T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The decision to apply schedule pressure to a project needs to be made in much the same way you decide whether or not to punish your child: If punishment is rare and your timing is impeccable so the justification is easily apparent, then maybe it can help. If you do it all the time, it's just a sign that you've got problems of your own.\"\r\n- Peopleware by Tom DeMarco and Timothy Lister",
+    "PostAfter": "2018-04-27T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I then made my decision; I chose happiness.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2018-04-30T09:00:30",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "What kind of motivational mumbo jumbo is that?",
+    "PostAfter": "2018-04-30T09:00:40",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "The context for that quote is when Sandro had the choice between taking an architecture position where he basically got to do no coding or pursuing a position that involved coding. At the company where he worked at the time, moving into the architecture position was considered a promotion over the more hands on position. Rather than choosing the position that was considered better by others Sandro chose the position he was more passionate about. Instead of choosing career advancement and prestige he chose to go with what he was passionate about. He chose to pursue what made him happy. I think that's one of the signs of a true craftsman, that they do what they do because they love it.",
+    "PostAfter": "2018-04-30T09:00:50",
+    "DoNotPostAfter": "2018-05-01T00:00:00",
+    "Sent": true
+  }
+]

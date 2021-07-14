@@ -1,0 +1,106 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There's a way to do it better - find it.\"\r\n- Thomas A. Edison",
+    "PostAfter": "2015-10-26T08:58:00",
+    "DoNotPostAfter": "2015-10-26T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "I like Tesla better than Edison.",
+    "PostAfter": "2015-10-26T08:58:40",
+    "DoNotPostAfter": "2015-10-26T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Well, putting aside their scientific accomplishments and ethical choices, it's still a good quote.",
+    "PostAfter": "2015-10-26T08:59:30",
+    "DoNotPostAfter": "2015-10-26T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Eh. Fair enough.",
+    "PostAfter": "2015-10-26T09:00:00",
+    "DoNotPostAfter": "2015-10-26T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If someone can make a contribution to the company he feels important.\"\r\n - W. Edwards Deming",
+    "PostAfter": "2015-10-27T09:16:00",
+    "DoNotPostAfter": "2015-10-27T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is very important to defer public commitment to exactly which features will be in the product, because this makes it possible to reliably release the product on time. The release date is guaranteed, but the exact features are not. Timebox—don’t scopebox.\"\r\n - Mary Poppendieck",
+    "PostAfter": "2015-10-28T09:16:00",
+    "DoNotPostAfter": "2015-10-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "So with all the rebranding, new product stuff, did we timebox or scopebox?",
+    "PostAfter": "2015-10-28T09:16:30",
+    "DoNotPostAfter": "2015-10-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Good question. Anyone care to comment on that?",
+    "PostAfter": "2015-10-28T09:17:00",
+    "DoNotPostAfter": "2015-10-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"...if you're afraid to change something it is clearly poorly designed.\"\r\n - Martin Fowler",
+    "PostAfter": "2015-10-29T09:16:00",
+    "DoNotPostAfter": "2015-10-29T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.\"\r\n - Principles behind the Agile Manifesto",
+    "PostAfter": "2015-10-30T09:16:00",
+    "DoNotPostAfter": "2015-10-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Retrospectives are great and all, but after a while they get boring. If you're not getting value from it you should stop doing it.",
+    "PostAfter": "2015-10-30T09:16:40",
+    "DoNotPostAfter": "2015-10-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "I agree that if you don't get value out of it you shouldn't do it. But you should be getting value out of retrospectives. Retrospectives are a way to reflect and find areas for improvement. Improving should always add value. If you're not getting value out of retrospectives, maybe you could look at doing your retrospectives differently such that you _do_ get value out of them.",
+    "PostAfter": "2015-10-30T09:17:30",
+    "DoNotPostAfter": "2015-10-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "At the offsite in Utah last week, Kay shared a great web site with lots of ideas on different ways to run retrospectives. http://www.funretrospectives.com/",
+    "PostAfter": "2015-10-30T09:18:00",
+    "DoNotPostAfter": "2015-10-30T10:15:30",
+    "Sent": true
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "It's been a while since I've posted anything here, and I realized that some people might not know me. I'm Mega Man. I'm a bot and it's my job to share quotes about software development. Hopefully some of the quotes will make you think. If you agree with a quote, feel free to talk about why. If you don't agree with a quote, talk about that. I hope that at least some of the quotes are useful to you and that they spark some great conversations.",
+    "PostAfter": "2020-02-03T09:02:45",
+    "DoNotPostAfter": "2020-02-03T09:30:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Truth can only be found in one place: the code. Only the code can truly tell you what it does. It is the only source of truly accurate information. Therefore, though comments are sometimes necessary, we will expend significant energy to minimize them.\"\r\n- Robert Martin, Clean Code",
+    "PostAfter": "2020-02-03T09:02:56",
+    "DoNotPostAfter": "2020-02-04T09:02:56",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is very important to defer public commitment to exactly which features will be in the product, because this makes it possible to reliably release the product on time. The release date is guaranteed, but the exact features are not. Timebox—don’t scopebox.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2020-02-04T09:01:29",
+    "DoNotPostAfter": "2020-02-05T09:01:29",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2020-02-05T09:00:29",
+    "DoNotPostAfter": "2020-02-06T09:00:29",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There are things that can be measured. There are things that are worth measuring. But what can be measured is not always what is worth measuring; what gets measured may have no relationship to what we really want to know. The costs of measuring may be greater than the benefits. The things that get measured may draw effort away from the things we really care about. And measurement may provide us with distorted knowledge - knowledge that seems solid but is actually deceptive.\"\r\n- Jerry Z. Muller, The Tyranny of Metrics",
+    "PostAfter": "2020-02-06T09:00:25",
+    "DoNotPostAfter": "2020-02-07T09:00:25",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Quality is everyone's responsibility.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2020-02-07T09:01:46",
+    "DoNotPostAfter": "2020-02-08T09:01:46",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The principles behind Agile [can be] forgotten. Process [can become] more important than technical excellence. Technical excellence, which is assumed to be in place by every process-related Agile methodology, is normally ignored by managers and ill-prepared Agile coaches.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2020-02-10T09:01:42",
+    "DoNotPostAfter": "2020-02-11T09:01:42",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Facts do not cease to exist because they are ignored.\"\r\n- Aldous Huxley",
+    "PostAfter": "2020-02-11T09:00:08",
+    "DoNotPostAfter": "2020-02-12T09:00:08",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The biggest cause of failure in software-intensive systems is not technical failure; it’s building the wrong thing.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2020-02-12T09:01:49",
+    "DoNotPostAfter": "2020-02-13T09:01:49",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I want to always have the option to make mistakes, and to pay as little as possible for those mistakes.  Sometimes I must pay a lot for our mistakes. Still, I prefer to find ways to keep the price tiny when I can.\"\r\n- Woody Zuill",
+    "PostAfter": "2020-02-13T09:02:00",
+    "DoNotPostAfter": "2020-02-14T09:02:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"One difference between a smart programmer and a professional programmer is that the professional understands that clarity is king. Professionals use their powers for good and write code that others can understand.\"\r\n- Robert Martin, Clean Code",
+    "PostAfter": "2020-02-14T09:00:32",
+    "DoNotPostAfter": "2020-02-15T09:00:32",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The biggest problem [with code] is that bad code is invisible to everyone besides the developers. Other members of the team only realize that something is wrong when it is too late. That means it is the developers’ responsibility to look after the quality of the code.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2020-02-17T09:01:32",
+    "DoNotPostAfter": "2020-02-18T09:01:32",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The most important practice for continuous integration to work properly is frequent check-ins to trunk or mainline. You should be checking in your code at least a couple of times a day.\"\r\n- Jez Humble & David Farley",
+    "PostAfter": "2020-02-18T09:01:39",
+    "DoNotPostAfter": "2020-02-19T09:01:39",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Information is not knowledge. Let’s not confuse the two.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2020-02-19T09:00:51",
+    "DoNotPostAfter": "2020-02-20T09:00:51",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Metric fixation is the seemingly irresistible pressure to measure performance, to publicize it, and to reward it, often in the face of evidence that this just doesn't work very well. Used properly, measurement...can be a good thing. So can transparency. But they can also distort, divert, displace, distract, and discourage. While we are bound to live in an age of measurement, we live in an age of mismeasurement, over-measurement, misleading measurement, and counter-productive measurement. This book is not about the evils of measuring. It is about the unintended negative consequences of trying to substitute standardized measures of performance for personal judgement based on experience. The problem is not measurement, but excessive measurement and inappropriate measurement - not metrics, but metric fixation.\"\r\n- Jerry Z. Muller, The Tyranny of Metrics",
+    "PostAfter": "2020-02-20T09:01:53",
+    "DoNotPostAfter": "2020-02-21T09:01:53",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Never confuse movement with action.\"\r\n- Ernest Hemingway",
+    "PostAfter": "2020-02-21T09:00:36",
+    "DoNotPostAfter": "2020-02-22T09:00:36",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Management is too important to leave to the managers.\"\r\n- Jurgen Appelo, Managing for Happiness",
+    "PostAfter": "2020-02-24T09:02:45",
+    "DoNotPostAfter": "2020-02-25T09:02:45",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Flow efficiency is a measurement of how much a flow unit is processed during a specific time period. The time period is defined from the time a need is identified to the time it is satisfied.\"\r\n- Niklas Modig & Par Ahlstrom, This is Lean",
+    "PostAfter": "2020-02-25T09:02:53",
+    "DoNotPostAfter": "2020-02-26T09:02:53",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Delegation of control is the only way to manage complex systems. There is no other option.\"\r\n- Jurgen Appelo, Managing for Happiness",
+    "PostAfter": "2020-02-26T09:02:32",
+    "DoNotPostAfter": "2020-02-27T09:02:32",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Simplicity--the art of maximizing the amount of work not done--is essential.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2020-02-27T09:01:39",
+    "DoNotPostAfter": "2020-02-28T09:01:39",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Dedicated QA teams are an anti-pattern. Testers should find nothing. Zero. Nada. Every time a tester finds a bug, developers should feel bad about it. Every bug found is an indication of something that we haven’t done properly.\"\r\n- The Software Craftsman by Sandro Mancuso",
+    "PostAfter": "2020-02-28T09:02:05",
+    "DoNotPostAfter": "2020-02-29T09:02:05",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"You can only create new value when you protect what is already valuable...When you increase short-term productivity while cutting corners in quality, you're not creating value; you're just stealing it from the future.\"\r\n- Jurgen Appelo, Managing for Happiness",
+    "PostAfter": "2020-03-02T09:00:46",
+    "DoNotPostAfter": "2020-03-03T09:00:46",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It is hard to let go of the long-held belief that strong, centralized control provides valuable efficiencies. However well it may have served us in an era of lower complexity and slower technical advances, it now creates barriers that prevent us from adapting quickly to emerging opportunities.\"\r\n- Jez Humble",
+    "PostAfter": "2020-03-03T09:01:45",
+    "DoNotPostAfter": "2020-03-04T09:01:45",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Rewards may briefly motivate people who win them, but they also seriously demotivate those who don't. The net result is often more negative than positive. For every person you make 'employee of the month' you turn dozens, hundreds, or thousands of colleagues into 'losers of the month.'\"\r\n- Jurgen Appelo, Managing for Happiness",
+    "PostAfter": "2020-03-04T09:01:54",
+    "DoNotPostAfter": "2020-03-05T09:01:54",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"...if you're afraid to change something it is clearly poorly designed.\"\r\n- Martin Fowler",
+    "PostAfter": "2020-03-05T09:00:05",
+    "DoNotPostAfter": "2020-03-06T09:00:05",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"There’s always more to build than we have time or resources to build — always.\"\r\n- Jeff Patton",
+    "PostAfter": "2020-03-06T09:01:26",
+    "DoNotPostAfter": "2020-03-07T09:01:26",
+    "Sent": true
+  }
+]

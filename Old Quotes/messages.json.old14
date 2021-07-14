@@ -1,0 +1,82 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The way to go fast, and to keep the deadlines at bay, is to stay clean. Professionals do not succumb to the temptation to create a mess in order to move quickly. Professionals realize that \"quick and dirty\" is an oxymoron. Dirty always means slow!\"\r\n- Robert C. Martin",
+    "PostAfter": "2016-03-07T08:54:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Teams are most effective when the team members collaborate professionally. It is unprofessional to be a loner or a recluse on a team.\"\r\n- Robert C. Martin",
+    "PostAfter": "2016-03-08T08:57:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Professionals will always help the business find a way to achieve its goals. But professionals do not necessarily accept commitments made for them by the business.\"\r\n- Robert C. Martin",
+    "PostAfter": "2016-03-09T09:01:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"You know what you believe by observing yourself in a crisis. If in a crisis you follow your disciplines, then you truly believe in those disciplines. On the other hand, if you change your behavior in a crisis, then you don't truly believe in your normal behavior.\"\r\n- Robert C. Martin",
+    "PostAfter": "2016-03-10T08:55:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "And to finish off our week of Uncle Bob...",
+    "PostAfter": "2016-03-10T08:58:40",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"We can avoid pressure by keeping our system, our code, and our design as clean as possible. This does not mean that we spend endless hours polishing code. It simply means that we don't tolerate messes. We know that messes will slow us down, causing us to miss dates and break commitments.\"\r\n- Robert C. Martin",
+    "PostAfter": "2016-03-11T08:59:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "*Happy Pi Day!*\r\n\r\nFor your Pi Day enjoyment, here are the first 100 digits of pi:\r\n3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679",
+    "PostAfter": "2016-03-14T09:59:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If you want to have nice things, you have to remove the not-nice things.\"\r\n- Joel Spolsky",
+    "PostAfter": "2016-03-15T08:59:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Every project manager has been asked the question \"When will this be done?\". The sad truth is that estimates (such as the duration of a project) are extremely hard to get accurate, and even harder to get right. A small change is, by its nature, easily estimated and prioritised; reducing the risk of misleading or inaccurate formal estimates.\"\r\n- Evan Leybourn",
+    "PostAfter": "2016-03-17T08:59:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It’s important to ask ourselves questions such as: Do we really need estimates? Are they really that important?  Are there options? Are there other ways to do things? Are there BETTER ways to do things?\"\r\n- Woody Zuill",
+    "PostAfter": "2016-03-23T08:59:00",
+    "DoNotPostAfter": "2016-08-24T10:15:30",
+    "Sent": true
+  }
+]

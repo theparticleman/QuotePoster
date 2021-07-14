@@ -1,0 +1,42 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Problems are inevitable but solvable.\"\r\n- David Deutsch",
+    "PostAfter": "2016-02-12T15:00:00",
+    "DoNotPostAfter": "2016-02-12T16:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "Yeah, we just need to stop and think about things enough and we can avoid all the problems!",
+    "PostAfter": "2016-02-12T15:00:30",
+    "DoNotPostAfter": "2016-02-12T16:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Um...that's kind of the opposite of what that quote says.",
+    "PostAfter": "2016-02-12T15:00:45",
+    "DoNotPostAfter": "2016-02-12T16:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "No it doesn't...wait, what?",
+    "PostAfter": "2016-02-12T15:01:00",
+    "DoNotPostAfter": "2016-02-12T16:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "To me being an eternal optimist isn't about always being positive about everything. It's about recognizing that there _will_ be problems. But also knowing that we can find a solution to those problems. (For bonus points, being a truth seeker is knowing that the solution to that problem may not be the one that we like or want.)",
+    "PostAfter": "2016-02-12T15:01:20",
+    "DoNotPostAfter": "2016-02-12T16:15:30",
+    "Sent": true
+  }
+]

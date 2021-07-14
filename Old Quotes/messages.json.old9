@@ -1,0 +1,58 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The long-term value of an enterprise is not captured by the value of its products and intellectual property but rather by its ability to continuously increase the value it provides to customers — and to create new customers — through innovation.\"\r\n- Jez Humble",
+    "PostAfter": "2015-11-30T08:55:00",
+    "DoNotPostAfter": "2015-11-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "So the question is, are we continuously increasing the value to our customers through innovation?",
+    "PostAfter": "2015-11-30T08:55:23",
+    "DoNotPostAfter": "2015-11-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Good question. I think we are increasing value by innovating, but I could be wrong. Anyone have any thoughts on that? Or some examples perhaps?",
+    "PostAfter": "2015-11-30T08:55:42",
+    "DoNotPostAfter": "2015-11-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2015-12-01T08:56:00",
+    "DoNotPostAfter": "2015-12-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Work expands so as to fill the time available for its completion.\"\r\n- C. Northcote Parkinson",
+    "PostAfter": "2015-12-02T08:57:00",
+    "DoNotPostAfter": "2015-12-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"You measure system capability; you do not prescribe it.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2015-12-03T08:58:00",
+    "DoNotPostAfter": "2015-12-03T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The result of long-term relationships is better and better quality, and lower and lower costs.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2015-12-04T08:59:00",
+    "DoNotPostAfter": "2015-12-04T10:15:30",
+    "Sent": true
+  }
+]

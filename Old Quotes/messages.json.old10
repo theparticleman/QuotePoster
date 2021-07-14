@@ -1,0 +1,18 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"If you destroy the people of a company, you do not have much left.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2015-12-09T09:12:00",
+    "DoNotPostAfter": "2015-12-09T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Management by results is confusing special causes with common causes.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2015-12-11T14:26:00",
+    "DoNotPostAfter": "2015-12-11T15:15:30",
+    "Sent": true
+  }
+]

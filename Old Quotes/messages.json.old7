@@ -1,0 +1,90 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Handing off all the details about the story to someone else to build doesn’t work. Don’t do that.\"\r\n- Jeff Patton",
+    "PostAfter": "2015-11-09T08:56:00",
+    "DoNotPostAfter": "2015-11-09T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Management’s job is to improve the system.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2015-11-10T08:57:00",
+    "DoNotPostAfter": "2015-11-10T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\"\r\n- Principles behind the Agile Manifesto",
+    "PostAfter": "2015-11-11T08:56:00",
+    "DoNotPostAfter": "2015-11-11T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "I would actually change that one to say \"from a couple of _days_ to a couple of _minutes_\" personally, but that's just me.",
+    "PostAfter": "2015-11-11T08:56:20",
+    "DoNotPostAfter": "2015-11-11T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The majority of the cost of a software project is in long-term maintenance.\"\r\n- Robert Martin",
+    "PostAfter": "2015-11-12T08:56:00",
+    "DoNotPostAfter": "2015-11-12T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.\"\r\n- Stan Kelly-Bootle",
+    "PostAfter": "2015-11-13T08:56:00",
+    "DoNotPostAfter": "2015-11-13T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Luck is not a factor. Hope is not a strategy. Fear is not an option.\"\r\n- James Cameron",
+    "PostAfter": "2015-11-16T15:56:00",
+    "DoNotPostAfter": "2015-11-16T16:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Leaders in many companies believe that developers should not talk to customers because this is a waste of valuable developer time.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2015-11-17T08:56:00",
+    "DoNotPostAfter": "2015-11-17T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Bad behavior arises when you abstract people away from the consequences of their actions. Functional silos abstract people away from the consequences of their actions.\"\r\n- Jez Humble",
+    "PostAfter": "2015-11-18T08:56:00",
+    "DoNotPostAfter": "2015-11-18T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.\"\r\n- Larry Wall, Three Great Virtues of a Programmer",
+    "PostAfter": "2015-11-19T08:56:00",
+    "DoNotPostAfter": "2015-11-19T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten.\"\r\n- Anonymous",
+    "PostAfter": "2015-11-20T08:56:00",
+    "DoNotPostAfter": "2015-11-20T10:15:30",
+    "Sent": true
+  }
+]

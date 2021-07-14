@@ -1,0 +1,138 @@
+[
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "Do you know why we have company and department rocks and what they mean?\r\nThis short video demonstrates how prioritization helps us get the important things done.\r\nhttps://www.youtube.com/watch?v=j6m9WnNdpSw",
+    "PostAfter": "2015-09-28T10:30:00",
+    "DoNotPostAfter": "2015-09-28T11:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "When we set our priorities, we start with Annual Themes.\r\nHere is the list of 2015 Annual Themes for Pluralsight:\r\n - Drive demand gen, lifecycle marketing and worldwide sales\r\n - Execute against holistic product and brand vision\r\n - Enterprise growth\r\n - Predictability across depts. - KPIs and transparent info. flows\r\n - IPO readiness\r\n - Brand and library consolidation\r\n - Developing a user-centered product culture\r\n - Invest in internal systems to support these themes",
+    "PostAfter": "2015-09-29T10:30:00",
+    "DoNotPostAfter": "2015-09-29T11:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "As a company, we also set quarterly priorities (Rocks).\r\nHere are the Q3 Company Rocks:\r\n - Launch www digital ops platforms (Zuora, AEM, SFDC)\r\n - Complete Q3  business sales strategy milestones\r\n - Finalize pricing model for new website release\r\n - Architect and define initial set of ALPs\r\n - Define and execute a plan to achieve DW forecast\r\n - Complete Q3 product roadmap milestones\r\n - Align with Code School on future aim\r\n - Define content creation process for assessments\r\n - Achieve $130-160M in 2015 with a 60/40 split\r\n - Maintain 25% EBITDA\r\n - Retention\r\n - ARR\r\n - LTV\r\n - Employee NPS\r\n - Customer NPS\r\n - Author NPS\r\n - Engagement",
+    "PostAfter": "2015-09-30T10:30:00",
+    "DoNotPostAfter": "2015-09-30T11:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "Departments also have quarterly Rocks (priorities).\r\nHere are the Q3 Engineering Rocks:\r\n - Hire 10 developers\r\n - Complete Zuora and AEM Implementation\r\n - Subscription management data warehouse migration\r\n - Deliver new offline player and video bounded context\r\n - Hire Utah Dev leader\r\n - Replace assessments with Learning Check\r\n - First version of Data Hub APIs",
+    "PostAfter": "2015-10-01T10:30:00",
+    "DoNotPostAfter": "2015-10-01T11:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Duo",
+    "Channel": "#dev-general",
+    "Message": "It’s important for us to remember the rocks when we are deciding what to work on each day. These items should take priority over the less important sand and gravel that can fill our time and prevent us from accomplishing our goals. We should ask ourselves regularly, \"Is what I’m working on in support of a department Rock? Is there something more important I can work on right now?\"",
+    "PostAfter": "2015-10-02T10:30:00",
+    "DoNotPostAfter": "2015-10-02T11:00:00",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus.\"\r\n- Martin Fowler",
+    "PostAfter": "2015-09-28T08:55:00",
+    "DoNotPostAfter": "2015-09-28T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"It would be much better to assign work to established teams than to reconstitute teams around projects.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2015-09-29T08:55:00",
+    "DoNotPostAfter": "2015-09-29T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Dr. Light",
+    "Channel": "#dev-general",
+    "Message": "We used to move people around all the time. Does that mean we were wrong or that Mary is wrong?",
+    "PostAfter": "2015-09-29T08:56:00",
+    "DoNotPostAfter": "2015-09-29T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "Neither. When we were switching around between pods we were still one team. We didn't use the word team to describe pods specifically because they are not the same thing. We don't do pods anymore. (Though one could argue that what Prime Directive is doing could be considered multiple pods on one team I suppose.)",
+    "PostAfter": "2015-09-29T08:56:00",
+    "DoNotPostAfter": "2015-09-29T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"People are entitled to joy in work.\"\r\n- W. Edwards Deming",
+    "PostAfter": "2015-09-30T08:55:00",
+    "DoNotPostAfter": "2015-09-30T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Slaves are not allowed to say no. Laborers may be hesitant to say no. But professionals are expected to say no. Indeed, good managers crave someone who has the guts to say no. It’s the only way you can really get anything done.\"\r\n- Robert C. Martin",
+    "PostAfter": "2015-10-01T08:55:00",
+    "DoNotPostAfter": "2015-10-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "So we can just say no to everything and never get anything done, right?",
+    "PostAfter": "2015-10-01T08:56:00",
+    "DoNotPostAfter": "2015-10-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "No.",
+    "PostAfter": "2015-10-01T08:56:30",
+    "DoNotPostAfter": "2015-10-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Enker",
+    "Channel": "#dev-general",
+    "Message": "Oh, I see what you did there. Very funny.",
+    "PostAfter": "2015-10-01T08:57:00",
+    "DoNotPostAfter": "2015-10-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": "I thought so. :)",
+    "PostAfter": "2015-10-01T08:57:20",
+    "DoNotPostAfter": "2015-10-01T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.\"\r\n- Dr. Seuss",
+    "PostAfter": "2015-10-02T08:55:00",
+    "DoNotPostAfter": "2015-10-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"\"\r\n- ",
+    "PostAfter": "2015-09-16T09:04:00",
+    "DoNotPostAfter": "2015-09-16T10:15:30",
+    "Sent": true
+  }
+]

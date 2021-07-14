@@ -1,0 +1,42 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"The best way to achieve predictable software development outcomes is to start early, learn constantly, commit late, and deliver fast.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2015-11-02T08:56:00",
+    "DoNotPostAfter": "2015-11-02T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Handing off all the details about the story to someone else to build doesn’t work. Don’t do that.\"\r\n- Jeff Patton",
+    "PostAfter": "2015-11-03T08:56:00",
+    "DoNotPostAfter": "2015-11-03T10:15:30",
+    "Sent": false
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"I’ll tell you exactly what DevOps means. DevOps means caring about your job enough to not pass the buck. DevOps means caring about your job enough to want to learn all the parts and not just your little world. Developers need to understand the infrastructure, operations people need to understand code, people need to actually work with each other and not just occupy space next to each other.\"\r\n- Jez Humble paraphrasing John Vincent",
+    "PostAfter": "2015-11-04T08:56:00",
+    "DoNotPostAfter": "2015-11-04T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\"\r\n- Martin Fowler",
+    "PostAfter": "2015-11-05T08:56:00",
+    "DoNotPostAfter": "2015-11-05T10:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Programmers don’t burn out on hard work, they burn out on change-with-the-wind directives and not ‘shipping’.\"\r\n- Mark Berry",
+    "PostAfter": "2015-11-06T08:56:00",
+    "DoNotPostAfter": "2015-11-06T10:15:30",
+    "Sent": true
+  }
+]

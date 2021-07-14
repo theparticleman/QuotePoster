@@ -1,0 +1,34 @@
+[
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Control projects by quantified critical-few, results. The worst scenario I can imagine is when we allow real customers, users, and our own salespeople to dictate ‘functions and features’ to the developers, carefully disguised as ‘customer requirements’.\"\r\n- Mary Poppendieck",
+    "PostAfter": "2016-01-14T09:02:00",
+    "DoNotPostAfter": "2016-01-14T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Controlling complexity is the essence of computer programming.\"\r\n- Brian Kernighan",
+    "PostAfter": "2016-01-19T09:02:00",
+    "DoNotPostAfter": "2016-01-19T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"For every complex problem there is an answer that is clear, simple, and wrong.\"\r\n- H. L Mencken",
+    "PostAfter": "2016-01-20T09:01:00",
+    "DoNotPostAfter": "2016-01-20T12:15:30",
+    "Sent": true
+  },
+  {
+    "PostAs": "Mega Man",
+    "Channel": "#dev-general",
+    "Message": ">\"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.\"\r\n- Edsger W. Dijkstra",
+    "PostAfter": "2016-01-21T09:03:00",
+    "DoNotPostAfter": "2016-01-21T12:15:30",
+    "Sent": true
+  }
+]

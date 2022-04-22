@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net;
-using System.Text.Json;
 using Microsoft.Extensions.Configuration;
 using RestSharp;
 
@@ -11,31 +8,28 @@ namespace QuotePoster
 {
     class Program
     {
-        static Random rand = new Random();
-        static JsonSerializerOptions options = new JsonSerializerOptions
-        {
-            PropertyNameCaseInsensitive = true,
-            PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
-            WriteIndented = true
-        };
         private static Settings settings;
+        private static RestClient client = new RestClient("http://google.com");
 
         static void Main(string[] args)
         {
             LoadSettings();
-            var messages = ReadMessages();
-            var messageToPost = SelectMessageToPost(messages);
-            PostMessage(messageToPost);
-            UpdateMessages(messages);
+            var quote = GetQuote();
+            PostMessage(quote);
         }
 
-        private static void PostMessage(Message message)
+        private static Quote GetQuote()
         {
-            var client = new RestClient("http://google.com");
+            var request = new RestRequest("https://api.megamanquotes.com/random-quote", Method.GET);
+            return client.Execute<Quote>(request).Data;
+        }
+
+        private static void PostMessage(Quote quote)
+        {
             var request = new RestRequest(settings.SlackIncomingWebhook, Method.POST);
             request.AddJsonBody(new
             {
-                text = $">{message.Quote}\r\n - {message.Author}"
+                text = $">{quote.Text}\r\n - {quote.Author}"
             });
             var response = client.Execute(request);
             if (response.StatusCode != HttpStatusCode.OK)
@@ -44,28 +38,11 @@ namespace QuotePoster
             }
             else
             {
-                message.LastPostDateTime = DateTimeOffset.Now;
-                System.Console.WriteLine("Message posted at " + message.LastPostDateTime);
-                System.Console.WriteLine(message.Quote);
-                System.Console.WriteLine($" - {message.Author}");
+                System.Console.WriteLine("Message posted at " + DateTime.UtcNow);
+                System.Console.WriteLine(quote.Text);
+                System.Console.WriteLine($" - {quote.Author}");
             }
         }
-
-        private static Message SelectMessageToPost(List<Message> messages)
-        {
-            System.Console.WriteLine($"{messages.Count} total messages considered");
-            var sortedMessages = messages.OrderBy(x => x.LastPostDateTime).ToList();
-            var possibleMessages = sortedMessages.Take(Math.Min(sortedMessages.Count(), 10)).ToList();
-            var index = rand.Next(possibleMessages.Count);
-            System.Console.WriteLine($"Selected message index: {index}");
-            return possibleMessages[index];
-        }
-
-        private static List<Message> ReadMessages()
-            => JsonSerializer.Deserialize<List<Message>>(File.ReadAllText("messages.json"), options);
-
-        private static void UpdateMessages(List<Message> messages)
-            => File.WriteAllText("messages.json", JsonSerializer.Serialize(messages, options));
 
         private static void LoadSettings()
         {
@@ -83,11 +60,11 @@ namespace QuotePoster
         }            
     }
 
-    public record Message
+    public record Quote
     {
-        public string Quote { get; set; }
+        public string Text { get; set; }
         public string Author { get; set; }
-        public DateTimeOffset LastPostDateTime { get; set; }
+        public string Source { get; set; }
     }
 
     public record Settings

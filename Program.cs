@@ -21,7 +21,9 @@ namespace QuotePoster
         private static Quote GetQuote()
         {
             var request = new RestRequest("https://api.megamanquotes.com/random-quote", Method.GET);
-            return client.Execute<Quote>(request).Data;
+            var response = client.Execute<Quote>(request);
+            Console.WriteLine($"Got a response code of {response.StatusCode} from the API");
+            return response.Data;
         }
 
         private static void PostMessage(Quote quote)
@@ -29,7 +31,7 @@ namespace QuotePoster
             var request = new RestRequest(settings.SlackIncomingWebhook, Method.POST);
             request.AddJsonBody(new
             {
-                text = $">{quote.Text}\r\n - {quote.Author}"
+                text = $">{quote.Text}\r\n - {quote.Author} ({quote.Source})"
             });
             var response = client.Execute(request);
             if (response.StatusCode != HttpStatusCode.OK)
@@ -40,7 +42,7 @@ namespace QuotePoster
             {
                 System.Console.WriteLine("Message posted at " + DateTime.UtcNow);
                 System.Console.WriteLine(quote.Text);
-                System.Console.WriteLine($" - {quote.Author}");
+                System.Console.WriteLine($" - {quote.Author} ({quote.Source})");
             }
         }
 

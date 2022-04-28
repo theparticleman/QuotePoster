@@ -29,9 +29,10 @@ namespace QuotePoster
         private static void PostMessage(Quote quote)
         {
             var request = new RestRequest(settings.SlackIncomingWebhook, Method.POST);
+            var source = string.IsNullOrEmpty(quote.Source) ? "" : $" ({quote.Source})";
             request.AddJsonBody(new
             {
-                text = $">{quote.Text}\r\n - {quote.Author} ({quote.Source})"
+                text = $">{quote.Text}\r\n - {quote.Author}{source}"
             });
             var response = client.Execute(request);
             if (response.StatusCode != HttpStatusCode.OK)
@@ -42,7 +43,7 @@ namespace QuotePoster
             {
                 System.Console.WriteLine("Message posted at " + DateTime.UtcNow);
                 System.Console.WriteLine(quote.Text);
-                System.Console.WriteLine($" - {quote.Author} ({quote.Source})");
+                System.Console.WriteLine($" - {quote.Author}{source}");
             }
         }
 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Net;
+using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using RestSharp;
 
@@ -11,30 +12,30 @@ namespace QuotePoster
         private static Settings settings;
         private static RestClient client = new RestClient("http://google.com");
 
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             LoadSettings();
-            var quote = GetQuote();
-            PostMessage(quote);
+            var quote = await GetQuote();
+            await PostMessage(quote);
         }
 
-        private static Quote GetQuote()
+        private static async Task<Quote> GetQuote()
         {
-            var request = new RestRequest("https://api.megamanquotes.com/random-quote", Method.GET);
-            var response = client.Execute<Quote>(request);
+            var request = new RestRequest("https://api.megamanquotes.com/random-quote", Method.Get);
+            var response = await client.ExecuteAsync<Quote>(request);
             Console.WriteLine($"Got a response code of {response.StatusCode} from the API");
             return response.Data;
         }
 
-        private static void PostMessage(Quote quote)
+        private static async Task PostMessage(Quote quote)
         {
-            var request = new RestRequest(settings.SlackIncomingWebhook, Method.POST);
+            var request = new RestRequest(settings.SlackIncomingWebhook, Method.Post);
             var source = string.IsNullOrEmpty(quote.Source) ? "" : $" ({quote.Source})";
             request.AddJsonBody(new
             {
                 text = $">{quote.Text}\r\n - {quote.Author}{source}"
             });
-            var response = client.Execute(request);
+            var response = await client.ExecuteAsync(request);
             if (response.StatusCode != HttpStatusCode.OK)
             {
                 System.Console.WriteLine("There was an error sending the message");
